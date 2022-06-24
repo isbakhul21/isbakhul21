@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isbakhul21
 - 👀 I’m interested in all about Data Engineering
-- 🌱 I’m currently learning Cloud AWS, Google Cloud, adn Azure
+- 🌱 I’m currently learning Cloud AWS, Google Cloud, and Azure
 - 💞️ I’m looking to collaborate on Web Scrapping, ETL, and Bussines Intellegent
 - 📫 How to reach me isbakhul.lail@gmail.com
 
